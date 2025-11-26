@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaymark De Guzman
 
-<!--
-**Jaymark-DG/Jaymark-DG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- **New Era University**
+  - Bachelor of Science in Computer Science
 
-Here are some ideas to get you started:
+## 📜 Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/349adf79a0cd405a84703f5e6af2652d)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skillsets
+- Java
+- HTML
+- SQL
+- Git & GitHub
+- Database Design & ER Modeling
+- Problem Solving & Debugging
+
+## 📫 Contact
+- Email: **Deguzmanjaymark2003@gmail.com**
+- GitHub: [Jaymark-DG](https://github.com/Jaymark-DG)
