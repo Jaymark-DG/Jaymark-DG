@@ -8,7 +8,7 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/349adf79a0cd405a84703f5e6af2652d) *(IBM Cognitive Class, 2025)*
 - [OCI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=386CC66821E691DF4A18CB108B05697C6C2C70F018732690180C124A96EF089D) *(Oracle University, 2025)*
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A9ED76C774884D6F10887FEC5D0AA2D0EEAD626F1F7E632DDD1043DECE99961) *(Oracle University, 2025)*
-- [[OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0186CFCE09A37690EF74B0E3070C0E6A99AA2C83B748C7166451AFF46A424CBE) *(Oracle University, 2025)*
+- [OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0186CFCE09A37690EF74B0E3070C0E6A99AA2C83B748C7166451AFF46A424CBE) *(Oracle University, 2025)*
 
 ## 💻 Skillsets
 - Java  
